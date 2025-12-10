@@ -1,84 +1,110 @@
+![Logo](./public/logo.png)
 
-# Template de Landing Page para Portfólio
+Bem-vindo ao repositório oficial da Fonoup, uma clínica especializada em fonoaudiologia dedicada a promover a saúde e o bem-estar através da comunicação. Nossa missão é melhorar a qualidade de vida de nossos pacientes por meio de avaliações e terapias personalizadas, voltadas para o tratamento de distúrbios da fala, linguagem, voz e audição.
 
-Bem-vindo ao **Template de Landing Page para Portfólio**, um projeto gratuito que desenvolvi para ajudar freelancers, desenvolvedores e designers a criarem portfólios profissionais e impactantes. Este template é uma solução fácil de implementar e pode ser utilizada tanto para seu próprio portfólio quanto para vender como um serviço para seus clientes.
+Na Fonoup, nossa equipe de profissionais qualificados utiliza métodos modernos e comprovados para ajudar crianças, adultos e idosos a superarem desafios de comunicação e a alcançarem seus objetivos. Estamos comprometidos com o desenvolvimento contínuo e a inovação no campo da fonoaudiologia.
 
-## 🖥️ Demonstração
+# 📦 Tecnologias utilizadas no projeto
 
-Você pode visualizar o site de exemplo no seguinte link:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p> <br/>
 
-👉 [Visualizar Site Exemplo](https://silly-pastelito-c73724.netlify.app)
 
-## 🚀 Funcionalidades
+### 🚀 Passos para rodar o projeto
 
-- Design moderno e responsivo, adaptado para dispositivos móveis.
-- Seções para "Sobre", "Serviços", "Portfólio", "Contato", entre outras.
-- Animações suaves ao rolar a página, utilizando a biblioteca AOS.
-- Código otimizado para SEO e desempenho.
-- Fácil personalização para incluir suas informações e branding.
+1. 🔁 Clone este repositório
+```
+bash
+git clone https://github.com/seu-usuario/seu-projeto-react.git
+```
 
-## 📋 Como Utilizar
+2. 📁 Acesse a pasta do projeto
+```
+bash
+cd seu-projeto-react
+```
 
-1. **Clone o Repositório**
-   ```bash
-   git clone https://github.com/SEU_USUARIO/landing-page-portfolio-tiktok.git
-   ```
+3. 📥 Instale as dependências
+```
+bash
+npm install
+```
 
-2. **Abra no seu editor de código favorito (VS Code, Sublime, etc.).**
+4. ▶️ Rode o projeto em modo de desenvolvimento
+```
+bash
+npm run dev
+```
 
-3. **Edite o conteúdo**
-   - Substitua as imagens, textos e informações pessoais nas respectivas seções do código.
+## 💡 Dicas
+- Certifique-se de ter o **Node.js** instalado corretamente:
+```bash
+  node -v
+```
+- Caso ocorra algum erro ao instalar os pacotes:
+```bash
+rm -rf node_modules
+npm install
+```
 
-4. **Hospede seu portfólio**
-   - O site é estático, então pode ser hospedado facilmente em plataformas como Netlify, Vercel ou GitHub Pages.
 
-## 🎨 Personalização
+🌐 Acesse no navegador
+```
+http://localhost:5173
+```
 
-Você pode personalizar todas as seções do template:
-- **Início:** Adicione seu nome, título e uma chamada para ação.
-- **Sobre:** Adicione uma descrição sobre você, suas habilidades e seus perfis de redes sociais.
-- **Serviços:** Inclua os serviços que você oferece.
-- **Portfólio:** Adicione seus trabalhos, clientes anteriores ou cases de sucesso.
-- **Contato:** Ofereça opções para clientes entrarem em contato.
+## 🎨 Protótipo no Figma
+🔗 [Clique aqui para abrir o Figma](https://www.figma.com/design/fB411DwX5kdW59sspxN6sl/%E2%9C%B4%EF%B8%8F-FonoUP?node-id=7501-7580&node-type=canvas&t=LZvzlDXFpxocorvr-0)
 
-## 🔧 Tecnologias Utilizadas
 
-- **HTML5 & CSS3:** Para estrutura e estilo.
-- **JavaScript:** Para animações e interações dinâmicas.
-- **AOS (Animate on Scroll):** Para as animações ao rolar a página.
-- **Bootstrap Icons:** Ícones prontos para uso, para uma interface mais rica.
+<h2 id="colab">🤝 Colaboradores</h2>
 
-## 📦 Instalação
+Um agradecimento especial a todas as pessoas que contribuiram direto ou indiretamente para esse projeto.
 
-Não é necessário instalar nada além de um editor de texto e um navegador para testar. Você pode modificar o conteúdo diretamente nos arquivos HTML e CSS.
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="" width="100px;" alt=""/><br>
+        <sub>
+          <b>Kézya L. M. Cardoso</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="" alt=""/><br>
+        <sub>
+          <b>Henery L. M.</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 🛠 Melhorias Futuras
+<h2 id="contribute">📫 Contribuir</h2>
 
-Planejo melhorar e atualizar o template com novos recursos e seções. Algumas das ideias para futuras versões incluem:
-- Adição de mais layouts e estilos.
-- Integração com formulários dinâmicos (com EmailJS ou Formspree).
-- Suporte a múltiplos temas (dark mode).
+Contribuições são sempre bem-vindas! Se você deseja melhorar esse projeto, corrigir bugs ou adicionar novas funcionalidades, siga os passos abaixo:
 
-## 👨‍🏫 Sobre Mim
+1. `git clone git@github.com:leandro-ramos-cardoso/fonoup-portal.git`
+2. Crie uma branch com sua feature: `git checkout -b minha-nova-feature`
+3. Commit suas alterações: `git commit -m 'feat: Minha nova feature'`
+4. Dê push na sua branch: `git push origin minha-nova-feature`
+5. Abra um Pull Request explicando o problema resolvido ou o recurso criado, se houver, anexe uma captura de tela das modificações visuais e aguarde a revisão!
 
-Eu sou **Ricardo Moura**, desenvolvedor web freelancer e criador de conteúdo focado em programação e tecnologia. Meu objetivo é ajudar outros desenvolvedores a terem sucesso no mercado de trabalho freelancer, oferecendo dicas, estratégias e templates como este.
+🔍 Dica: Antes de contribuir, verifique se já existe uma issue relacionada ou abra uma nova para discutirmos sua ideia!
 
-Se você gostou deste projeto ou deseja aprender mais sobre como melhorar seus projetos, siga-me nas minhas redes sociais para mais conteúdos:
+<h3>Documentação que pode ajudar</h3>
 
-- **Instagram:** [@riicardomoura](https://www.instagram.com/riicardomoura/)
-- **LinkedIn:** [Ricardo Moura](https://www.linkedin.com/in/ricardomouradev/)
-- **Meus Links:** [RM│Dev.](https://rmdeveloper.com.br/meus-links)
+[📝 Como criar um Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
-## 🎁 Como Contribuir
-
-Se você tem sugestões de melhorias ou encontrou algum bug, fique à vontade para contribuir com o projeto. Basta abrir uma issue ou fazer um pull request.
-
----
-
-Espero que este template ajude você a criar um portfólio incrível e a se destacar no mercado. Se precisar de ajuda, estarei por aqui!
-
-Se você utilizar o template e postar no Instagram ou outra rede social, me marque! Ficarei feliz em reagir à sua postagem.
-
-### Licença
-
-Este projeto está sob a licença MIT. Você é livre para usá-lo como quiser, tanto para uso pessoal quanto comercial.
+[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
